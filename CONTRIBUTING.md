@@ -1,4 +1,4 @@
-## Contributing
+https://www.contributor-covenant.org## Contributing
 
 [fork]: https://github.com/actions/node-versions/fork  
 [pr]: https://github.com/actions/node-versions/compare  
